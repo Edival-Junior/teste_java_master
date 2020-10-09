@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: java
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Edival Silva
+Implementation-Vendor-Id: com.rns.testes
+Build-Jdk: 1.8.0_221
+Implementation-URL: https://spring.io/projects/spring-boot/java
+Created-By: Maven Integration for Eclipse
+
